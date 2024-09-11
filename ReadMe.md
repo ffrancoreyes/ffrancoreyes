@@ -84,7 +84,7 @@
   <a href="https://github.com/ffrancoreyes" target="_blank">
     <img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  <a href="tel:+541151489765">
+  <a href="https://wa.me/+541151489765">
     <img align="center" alt="Phone" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/phone.svg" />
   </a>
 </p>
